@@ -1,9 +1,9 @@
 # CV-ariadna
 Hoja de vida 
 
-## Preview
+## link CV-Ariadna
 
-[![CV-Ariadna Gomez](img/preview.png)](https://cvariadna.netlify.app/)
+[![CV-Ariadna Gomez]](https://cvariadna.netlify.app/)
 
 **[Launch Live Preview](https://cvariadna.netlify.app/)**
 
