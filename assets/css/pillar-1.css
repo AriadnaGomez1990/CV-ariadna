@@ -7863,7 +7863,7 @@ fieldset:disabled .btn {
 }
 
 .text-white {
-  color: #fff !important;
+  color: #ffffff !important;
 }
 
 .text-body {
@@ -7891,7 +7891,7 @@ fieldset:disabled .btn {
 }
 
 .bg-secondary {
-  background-color: #58677c !important;
+  background-color: #262030 !important;
 }
 
 .bg-body {
@@ -11602,7 +11602,7 @@ a.theme-btn-on-bg:active,
 }
 
 .theme-progress-bar-dark {
-  background-color: #434E5E;
+  background-color: #262030;
 }
 
 .resume-wrapper {
@@ -11615,13 +11615,13 @@ a.theme-btn-on-bg:active,
 }
 
 .resume-header {
-  background: #463752b7;
+  background: #262030;
   color: rgba(255, 255, 255, 0.9);
-  height: 220px;
+  height: 227px;
 }
 
 .resume-header .picture {
-  width: 220px;
+  width: 190px;
 }
 
 .resume-header .name {
@@ -11659,7 +11659,7 @@ a.theme-btn-on-bg:active,
 .resume-section-title {
   font-size: 1.25rem;
   position: relative;
-  color: #434E5E;
+  color: #262030;
 }
 
 .resume-section-title:after {
