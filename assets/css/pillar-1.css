@@ -11544,10 +11544,10 @@ fieldset:disabled .btn {
 /*************************** Pillar Styles ****************************/
 body {
   font-family: 'Roboto', sans-serif;
-  background: #F7F8FA;
+  background: #161526;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #434E5E;
+  color: #5e4343;
   overflow-x: hidden;
 }
 
